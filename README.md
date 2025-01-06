@@ -1,6 +1,6 @@
 ## Soy Ezequiel Roselló 👋
 
-# Estudiante de Ingeniería en Informática FIUBA
+### Estudiante de Ingeniería en Informática FIUBA
 
 <!--
 **ezerosello/ezerosello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
