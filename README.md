@@ -2,10 +2,12 @@
 ### Estudiante de Ingeniería en Informática FIUBA
 
 #### Actualmente me encuentro en búsqueda de mi primer trabajo en el sector IT
-#### 🌍Soy de Buenos Aires
-#### Pueden visitar mi portfolio en https://ezequielrosello.netlify.app/
+#### Pueden contactarme en Linkedin https://www.linkedin.com/in/ezequielrosello/
+#### o escribirme un mail a ezequielrosello14@gmail.com
+#### Los invito a visitar mi portfolio https://ezequielrosello.netlify.app/
 
-<img src="https://github.com/user-attachments/assets/9e502f4e-c54b-42b2-bcf2-0136dec6832c" width="15px">
+Skills
+<img src="https://github.com/user-attachments/assets/9e502f4e-c54b-42b2-bcf2-0136dec6832c" width="20px">
 
 <!--
 **ezerosello/ezerosello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
