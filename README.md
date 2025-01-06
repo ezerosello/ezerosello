@@ -7,7 +7,14 @@
 #### Los invito a visitar mi portfolio https://ezequielrosello.netlify.app/
 
 ### Skills
-- <img src="[https://github.com/user-attachments/assets/9e502f4e-c54b-42b2-bcf2-0136dec6832c](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3AJavaScript-logo.png&psig=AOvVaw1pIjXjT_s_74KQcEADkz-q&ust=1736220325650000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjPyu-S4IoDFQAAAAAdAAAAABAE)" width="30px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" width="30px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="30px">
+<img src="https://cdn-icons-png.flaticon.com/256/226/226777.png" width="30px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="30px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/320px-Scala-full-color.svg.png" width="30px">
+<img src="https://static-00.iconduck.com/assets.00/file-type-prolog-icon-2048x2048-3vfnh6jh.png" width="30px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" width="30px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="30px">
 
 <!--
 **ezerosello/ezerosello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
