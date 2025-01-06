@@ -1,7 +1,7 @@
 ## Soy Ezequiel Roselló 👋
 ### Estudiante de Ingeniería en Informática FIUBA
 
-### Actualmente me encuentro en búsqueda de mi primer trabajo en el sector IT.\nSoy de Buenos Aires\nPueden visitar mi portfolio en https://ezequielrosello.netlify.app/
+#### Actualmente me encuentro en búsqueda de mi primer trabajo en el sector IT.\nSoy de Buenos Aires\nPueden visitar mi portfolio en https://ezequielrosello.netlify.app/
 
 <!--
 **ezerosello/ezerosello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
