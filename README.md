@@ -1,4 +1,4 @@
-## Soy Ezequiel Roselló 👋 AR
+## Soy Ezequiel Roselló 👋 🇦🇷
 ### Estudiante de Ingeniería en Informática FIUBA
 
 #### Actualmente me encuentro en búsqueda de mi primer trabajo en el sector IT
