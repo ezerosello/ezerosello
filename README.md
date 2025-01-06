@@ -1,4 +1,4 @@
-## 👋 Soy Ezequiel Roselló de Buenos Aires, Argentina 🇦🇷
+## 👋 Soy Ezequiel Roselló, de Buenos Aires, Argentina 🇦🇷
 ### Estudiante de Ingeniería en Informática FIUBA
 
 #### Actualmente me encuentro en búsqueda de mi primer trabajo en el sector IT
