@@ -5,7 +5,7 @@
 #### 🌍Soy de Buenos Aires
 #### Pueden visitar mi portfolio en https://ezequielrosello.netlify.app/
 
-<img src="[URL DE LA IMAGEN O RUTA DEL ARCHIVO](https://github.com/user-attachments/assets/9e502f4e-c54b-42b2-bcf2-0136dec6832c)" width="15px">
+<img src="https://github.com/user-attachments/assets/9e502f4e-c54b-42b2-bcf2-0136dec6832c" width="15px">
 
 <!--
 **ezerosello/ezerosello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
