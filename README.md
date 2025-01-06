@@ -6,8 +6,8 @@
 #### o escribirme un mail a ezequielrosello14@gmail.com
 #### Los invito a visitar mi portfolio https://ezequielrosello.netlify.app/
 
-Skills
-<img src="https://github.com/user-attachments/assets/9e502f4e-c54b-42b2-bcf2-0136dec6832c" width="20px">
+### Skills
+- <img src="[https://github.com/user-attachments/assets/9e502f4e-c54b-42b2-bcf2-0136dec6832c](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3AJavaScript-logo.png&psig=AOvVaw1pIjXjT_s_74KQcEADkz-q&ust=1736220325650000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjPyu-S4IoDFQAAAAAdAAAAABAE)" width="30px">
 
 <!--
 **ezerosello/ezerosello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
