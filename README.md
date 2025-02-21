@@ -10,19 +10,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" width="30px">        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="30px">    <img src="https://cdn-icons-png.flaticon.com/256/226/226777.png" width="30px">    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="30px">    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132220.png" width="30px">    <img src="https://static-00.iconduck.com/assets.00/file-type-prolog-icon-2048x2048-3vfnh6jh.png" width="30px">    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/167_Html5_logo_logos-512.png" width="30px">    <img src="https://img.icons8.com/?size=512&id=21278&format=png" width="30px">
 
 
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezerosello&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 
